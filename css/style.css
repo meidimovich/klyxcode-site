@@ -55,7 +55,7 @@ body {
 .hero_text_main {
   font-size: clamp(40px, 5.2vw, 84px);
   line-height: 1.08;
-  font-weight: 500;
+  font-weight: 700;
   letter-spacing: -0.5px;
   margin-bottom: 20px;
   display: block;
@@ -64,7 +64,7 @@ body {
 .hero_text_cta {
   font-size: clamp(28px, 3.5vw, 56px);
   line-height: 1.08;
-  font-weight: 500;
+  font-weight: 700;
   letter-spacing: -0.5px;
 }
 
