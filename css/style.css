@@ -57,15 +57,15 @@ body {
   line-height: 1.08;
   font-weight: 500;
   letter-spacing: -0.5px;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
   display: block;
 }
 
 .hero_text_cta {
-  font-size: clamp(24px, 3vw, 42px);
-  line-height: 1.2;
+  font-size: clamp(40px, 5.2vw, 84px);
+  line-height: 1.08;
   font-weight: 500;
-  letter-spacing: -0.3px;
+  letter-spacing: -0.5px;
 }
 
 /* Ссылка */
@@ -105,11 +105,11 @@ body {
 
   .hero_text_main {
     letter-spacing: -0.3px;
-    margin-bottom: 30px;
+    margin-bottom: 15px;
   }
 
   .hero_text_cta {
-    letter-spacing: -0.2px;
+    letter-spacing: -0.3px;
   }
 }
 
