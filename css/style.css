@@ -1,5 +1,6 @@
 /* Google Fonts импорт */
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700&display=swap');
 
 /* Глобальные стили */
 * {
@@ -72,6 +73,7 @@ body {
 .hero_text a {
   color: #fff;
   font-weight: 700;
+  font-family: 'Space Grotesk', sans-serif;
   position: relative;
   text-decoration: none;
   background: linear-gradient(to right, #fff 0%, #fff 100%);
