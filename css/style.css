@@ -73,6 +73,7 @@ body {
   color: #fff;
   font-weight: 700;
   position: relative;
+  text-decoration: none;
   background: linear-gradient(to right, #fff 0%, #fff 100%);
   background-size: 100% 1px;
   background-position: 0 100%;
